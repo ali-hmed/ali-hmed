@@ -22,6 +22,15 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ali-hmed&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
@@ -31,13 +40,6 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<!-- Trophies are temporarily down due to service outage:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ali-hmed&theme=tokyonight&no-bg=true" alt="Trophies" />
-</p>
--->
-
 ---
 
 ### 🚀 Tech Stack
@@ -54,16 +56,16 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 
 <p align="left">
   <a href="https://wa.me/614968658" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" alt="WhatsApp" />
   </a>
   <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord" />
   </a>
   <a href="mailto:aliahmedxdev9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/ali-ahmed-92a4ba393/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" />
   </a>
 </p>
 
