@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stevenliuyi/animated-flags/master/flags-gif/SO.gif" width="100" alt="Somalia Flag" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlxem54Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L180pGIWIFV87Mof1W/giphy.gif" width="600" alt="Anime Coding" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Programmer Animation" />
+  <img src="https://img.icons8.com/color/96/somalia-flag.png" width="80" alt="Somalia Flag" />
 </p>
 
 <p align="center">
