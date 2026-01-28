@@ -1,7 +1,15 @@
 # Hi there, I'm Ali Ahmed 👋
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+Specialist;Creative+Coder" alt="Typing SVG" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Frontend%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Programmer Animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+Specialist;Creative+Coder" alt="Typing SVG" />
 </p>
 
 ---
