@@ -5,12 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Programmer Animation" />
+  <img src="https://raw.githubusercontent.com/mhmoudshrif/mhmoudshrif/main/assets/working.gif" width="400" alt="Programmer Animation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+Specialist;Creative+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+Specialist;Creative+Coder" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 💫 About Me
@@ -24,9 +25,7 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ali-hmed&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ali-hmed&theme=tokyonight&no-bg=true" alt="Trophies" />
 </p>
 
 ---
@@ -38,8 +37,9 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ali-hmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 ---
 
 ### 🚀 Tech Stack
@@ -55,17 +55,17 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://wa.me/614968658" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" alt="WhatsApp" />
+  <a href="https://wa.me/0614968658" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord" />
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:aliahmedxdev9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/ali-ahmed-92a4ba393/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
