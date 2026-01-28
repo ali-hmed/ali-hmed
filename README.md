@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Gifs/Lofi-boy-coding.gif" width="600" alt="Anime Coding" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Programmer Animation" />
 </p>
 
 <p align="center">
