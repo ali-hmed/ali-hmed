@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Ahmed 👋
+# Hi there, I'm Ali Ahmed 👋 <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Animated-Flag-Somalia.gif" width="30">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Frontend%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
