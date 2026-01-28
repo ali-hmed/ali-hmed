@@ -22,24 +22,21 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ali-hmed&theme=radical&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hmed&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<!-- Trophies are temporarily down due to service outage:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ali-hmed&theme=tokyonight&no-bg=true" alt="Trophies" />
+</p>
+-->
 
 ---
 
@@ -56,7 +53,7 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://wa.me/0614968658" target="_blank">
+  <a href="https://wa.me/614968658" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://discord.com" target="_blank">
