@@ -33,7 +33,7 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,figma,git,github,vscode,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode,vercel,netlify" />
   </a>
 </p>
 
