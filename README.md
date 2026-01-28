@@ -19,12 +19,12 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-hmed-99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-hmed-99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-hmed-99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -66,9 +66,9 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 
 ### 🎨 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ali-hmed-99/Ali-hmed-99/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ali-hmed/ali-hmed/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ali-hmed-99&color=blueviolet&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
 </p>
