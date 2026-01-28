@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://flagcdn.com/w160/so.png" width="70" alt="Somalia Flag" />
+  <img src="https://flagcdn.com/w160/so.png" width="50" alt="Somalia Flag" />
 </p>
 
 <p align="center">
