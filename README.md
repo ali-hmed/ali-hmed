@@ -18,7 +18,7 @@ I'm a passionate **Full Stack Developer** dedicated to building high-quality, re
 - 🌱 I’m currently learning **Advanced System Design & Distributed Systems**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Tailwind, and Node.js**
-- 📫 How to reach me: **[your-email@example.com]**
+- 📫 How to reach me: **[aliahmedxdev9@gmail.com]**
 
 ---
 
