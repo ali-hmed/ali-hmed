@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/f04gJ6XQ_nQAAAAC/coding-anime.gif" width="600" alt="Anime Coding" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Gifs/Lofi-boy-coding.gif" width="600" alt="Anime Coding" />
 </p>
 
 <p align="center">
