@@ -58,8 +58,8 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
   <a href="https://wa.me/614968658" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" alt="WhatsApp" />
   </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord" />
+  <a href="https://x.com/ali_dev9" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" />
   </a>
   <a href="mailto:aliahmedxdev9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail" />
