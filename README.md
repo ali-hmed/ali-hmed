@@ -20,8 +20,7 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 - 🔭 I’m currently working on **Modern UI/UX Web Solutions**
 - 🌱 I’m currently learning **Advanced Animation & Interaction Design**
 - 👯 I’m looking to collaborate on **Open Source Frontend Projects**
-- 💬 Ask me about **React, Next.js, Framer Motion, and Tailwind**
-- 📫 How to reach me: **[aliahmedxdev9@gmail.com]**
+
 
 ---
 
@@ -50,14 +49,8 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitch.tv" target="_blank">
-    <img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  <a href="https://wa.me/your-number-here" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
