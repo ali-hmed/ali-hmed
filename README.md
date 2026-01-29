@@ -48,7 +48,7 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ali-hmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-hmed&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
 ---
