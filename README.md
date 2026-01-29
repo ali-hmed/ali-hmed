@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-   <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="850" height="300" alt="Anime Coding Animation" />
+   <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="850" height="250" alt="Anime Coding Animation" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 
 ### 🎬 Aesthetic Anime
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp6Z3N0N256d3J6Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/8pzzC73HBeKmQ/giphy.gif" width="800" height="300" alt="Anime Aesthetic Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp6Z3N0N256d3J6Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/8pzzC73HBeKmQ/giphy.gif" width="800" height="250" alt="Anime Aesthetic Animation" />
 </p>
 ---
 
