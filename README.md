@@ -11,11 +11,11 @@
 <p align="center">
   <img src="https://flagcdn.com/w160/so.png" width="50" alt="Somalia Flag" />
 </p>
-
+<!-- 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Specialist;Creative+Coder;Programmer;" alt="Typing SVG" />
 </p>
----
+--- -->
 
 ### 💫 About Me
 I'm a passionate **Frontend Developer** dedicated to building high-quality, responsive, and visually stunning web applications. With a focus on clean code and user-centric design, I love turning complex problems into simple, elegant solutions.
