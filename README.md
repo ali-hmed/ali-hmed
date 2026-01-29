@@ -35,14 +35,9 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 
 ---
 
-### 📊 GitHub Analytics
+### 🎬 Aesthetic Anime
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J6eXN4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/cquvLOn7tUfHNV4tHs/giphy.gif" width="600" alt="Anime Coding Animation" />
 </p>
 ---
 
