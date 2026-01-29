@@ -13,15 +13,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+Specialist;Creative+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Frontend+Developer;anime+fan;React+Specialist;Creative+Coder;Gamer;Programmer; alt="Typing SVG" />
 </p>
 ---
 
 ### 💫 About Me
 I'm a passionate **Frontend Developer** dedicated to building high-quality, responsive, and visually stunning web applications. With a focus on clean code and user-centric design, I love turning complex problems into simple, elegant solutions.
 
-- 🔭 I’m currently working on **Modern UI/UX Web Solutions**
-- 🌱 I’m currently learning **Advanced Animation & Interaction Design**
+- 🔭 I’m currently working on **restaurant&coffee website**
+- 🌱 I’m currently learning **nextjs & typescript**
 - 👯 I’m looking to collaborate on **Open Source Frontend Projects**
 
 ---
