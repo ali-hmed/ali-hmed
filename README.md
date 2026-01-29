@@ -33,11 +33,11 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
   </a>
 </p> -->
 
----
+<!-- --- -->
 
 ### 🎬 Aesthetic Anime
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M3b2Vid2ZmaGNuNnM1d20yeGluamtwZThibmg5bHhsbWZuODk0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QfCQQQAI860CXZY9qs/giphy.gif" width="600" alt="Anime Coding Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZnYzlsMGN5Ym56Z3c2dDJuYnBqOXYwbmIyZDgweWI3dDQ3bzRqcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JRiAeFnqoFLtrHqttI/giphy.gif" width="600" alt="Anime Coding Animation" />
 </p>
 ---
 
