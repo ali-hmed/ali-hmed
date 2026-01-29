@@ -43,12 +43,12 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 
 ### 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=blood&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=blood&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-hmed&theme=blood" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-hmed&theme=radical" alt="GitHub Profile Details" />
 </p>
 
 ---
