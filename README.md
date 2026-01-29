@@ -1,8 +1,8 @@
 # Hi there, I'm Ali Ahmed 👋
-
+<!-- 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Frontend%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
-</p>
+</p> -->
 
 <!-- <p align="center">
    <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="850" height="250" alt="Anime Coding Animation" />
@@ -21,10 +21,10 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 - 🔭 I’m currently working on **restaurant&coffee website**
 - 🌱 I’m currently learning **nextjs & typescript**
 - 👯 I’m looking to collaborate on **Open Source Frontend Projects**
-<p align="left">
+  <p align="left">
   <img src="https://flagcdn.com/w160/so.png" width="25" alt="Somalia Flag" />
-</p>
----
+  </p>
+
 <!-- 
 ### 🏆 GitHub Trophies
 <p align="center">
