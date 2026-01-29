@@ -8,9 +8,7 @@
    <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="850" height="250" alt="Anime Coding Animation" />
 </p> -->
 
-<p align="center">
-  <img src="https://flagcdn.com/w160/so.png" width="50" alt="Somalia Flag" />
-</p>
+
 <!-- 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Specialist;Creative+Coder;Programmer;" alt="Typing SVG" />
@@ -23,7 +21,9 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 - 🔭 I’m currently working on **restaurant&coffee website**
 - 🌱 I’m currently learning **nextjs & typescript**
 - 👯 I’m looking to collaborate on **Open Source Frontend Projects**
-
+<p align="left">
+  <img src="https://flagcdn.com/w160/so.png" width="25" alt="Somalia Flag" />
+</p>
 ---
 <!-- 
 ### 🏆 GitHub Trophies
@@ -82,10 +82,10 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 ---
 
 <!-- ### 🎨 Contribution Snake -->
-<!-- <p align="center">
+ <p align="center">
   <img src="https://raw.githubusercontent.com/ali-hmed/ali-hmed/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
-</p> -->
+</p> 
