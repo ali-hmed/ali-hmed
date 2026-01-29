@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Frontend+Developer;anime+fan;React+Specialist;Creative+Coder;Gamer;Programmer; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Frontend+Developer;anime+fan;React+Specialist;Creative+Coder;Gamer;Programmer;" alt="Typing SVG" />
 </p>
 ---
 
@@ -41,7 +41,19 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 </p>
 ---
 
-### 🚀 Tech Stack
+### � GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### �🚀 Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
