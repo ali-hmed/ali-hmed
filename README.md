@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Programmer Animation" />
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG16Y2l2YnJvODlxenAweXE4ZWplZGZqMTVjNTZuMGVraGxyOHRxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif" width="600" alt="Anime Coding Animation" />
 </p>
 
 <p align="center">
@@ -25,19 +25,19 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 - 👯 I’m looking to collaborate on **Open Source Frontend Projects**
 
 ---
-
+<!-- 
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ali-hmed&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
-</p>
+</p> -->
 
 ---
 
 ### 🎬 Aesthetic Anime
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG16Y2l2YnJvODlxenAweXE4ZWplZGZqMTVjNTZuMGVraGxyOHRxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif" width="600" alt="Anime Coding Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M3b2Vid2ZmaGNuNnM1d20yeGluamtwZThibmg5bHhsbWZuODk0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QfCQQQAI860CXZY9qs/giphy.gif" width="600" alt="Anime Coding Animation" />
 </p>
 ---
 
