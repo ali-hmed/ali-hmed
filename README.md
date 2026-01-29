@@ -4,9 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Frontend%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
    <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="850" height="250" alt="Anime Coding Animation" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://flagcdn.com/w160/so.png" width="50" alt="Somalia Flag" />
@@ -34,24 +34,23 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 </p> -->
 
 <!-- --- -->
-
+<!-- 
 ### 🎬 Aesthetic Anime
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp6Z3N0N256d3J6Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/8pzzC73HBeKmQ/giphy.gif" width="800" height="250" alt="Anime Aesthetic Animation" />
 </p>
----
+--- -->
 
-### 📈 GitHub Analytics
-<p align="center">
+<!-- ### 📈 GitHub Analytics -->
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-hmed&theme=radical" alt="GitHub Profile Details" />
-</p>
+</p> -->
 
----
 
 ### 🚀 Tech Stack
 
@@ -82,11 +81,11 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
 
 ---
 
-### 🎨 Contribution Snake
-<p align="center">
+<!-- ### 🎨 Contribution Snake -->
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/ali-hmed/ali-hmed/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
-</p>
+</p> -->
