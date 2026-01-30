@@ -20,6 +20,11 @@
 
 I’m a front-end developer specializing in React and modern JavaScript. I focus on building functional, responsive, and maintainable web interfaces. I have experience working on real client projects and enjoy improving performance, writing clean code, and learning new web technologies.
 
+- 💻 Front-end development with **React & Nextjs**
+- ⚛️ Component-based UI implementation
+- 📱 Responsive websites & web apps
+- 🚀 Experience working on real client projects
+
 
 <!-- 
 ### 🏆 GitHub Trophies
