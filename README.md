@@ -69,7 +69,7 @@ I’m a front-end developer specializing in React and modern JavaScript. I focus
   <a href="https://wa.me/614968658" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" alt="WhatsApp" />
   </a>
-  <a href="https://x.com/ali_dev9" target="_blank">
+  <a href="https://x.com/ali_ahmedy7" target="_blank">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" />
   </a>
   <a href="mailto:aliahmedxdev9@gmail.com" target="_blank">
