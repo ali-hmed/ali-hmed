@@ -4,9 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Frontend%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
    <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="850" height="250" alt="Anime Coding Animation" />
-</p>
+</p> -->
 
 
 <!-- 
