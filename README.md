@@ -15,9 +15,7 @@
 </p>
 --- -->
 
-### 💫 About Me<p align="left">
-  <img src="https://flagcdn.com/w160/so.png" width="25" alt="Somalia Flag" />
-</p>
+### 💫 About Me<p align="left"><img src="https://flagcdn.com/w160/so.png" width="25" alt="Somalia Flag" /></p>
 
 I’m a front-end developer specializing in React and modern JavaScript. I focus on building functional, responsive, and maintainable web interfaces. I have experience working on real client projects and enjoy improving performance, writing clean code, and learning new web technologies.
 
