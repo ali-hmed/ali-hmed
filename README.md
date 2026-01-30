@@ -15,16 +15,12 @@
 </p>
 --- -->
 
-### 💫 About Me
-I'm a passionate **Frontend Developer** dedicated to building high-quality, responsive, and visually stunning web applications. With a focus on clean code and user-centric design, I love turning complex problems into simple, elegant solutions.
-
-- 🔭 I’m currently working on **restaurant&coffee website**
-- 🌱 I’m currently learning **nextjs & typescript**
-- 👯 I’m looking to collaborate on **Open Source Frontend Projects**
-
-<p align="left">
+### 💫 About Me<p align="left">
   <img src="https://flagcdn.com/w160/so.png" width="25" alt="Somalia Flag" />
 </p>
+
+I’m a front-end developer specializing in React and modern JavaScript. I focus on building functional, responsive, and maintainable web interfaces. I have experience working on real client projects and enjoy improving performance, writing clean code, and learning new web technologies.
+
 
 <!-- 
 ### 🏆 GitHub Trophies
@@ -80,7 +76,7 @@ I'm a passionate **Frontend Developer** dedicated to building high-quality, resp
   </a>
 </p>
 
----
+
 
 <!-- ### 🎨 Contribution Snake -->
  <!-- <p align="center">
