@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Frontend%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p> -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
-</p>  
-
  <p align="center">
    <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="850" height="50" alt="Anime Coding Animation" />
 </p> 
@@ -87,6 +83,11 @@ I’m a front-end developer specializing in React and modern JavaScript. I focus
 
 [![committers.top badge](https://user-badge.committers.top/somalia/ali-hmed.svg)](https://user-badge.committers.top/somalia/ali-hmed)
 
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
+</p>  
 
 <!-- ### 🎨 Contribution Snake 
   <p align="center">
