@@ -86,7 +86,7 @@ I’m a front-end developer specializing in React and modern JavaScript. I focus
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
 </p>  
 
