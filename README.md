@@ -4,7 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Frontend%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p> -->
 
-[![committers.top badge](https://user-badge.committers.top/somalia/ali-hmed.svg)](https://user-badge.committers.top/somalia/ali-hmed)
 
 
  <p align="center">
@@ -83,6 +82,8 @@ I’m a front-end developer specializing in React and modern JavaScript. I focus
   </a>
 </p>
 
+
+[![committers.top badge](https://user-badge.committers.top/somalia/ali-hmed.svg)](https://user-badge.committers.top/somalia/ali-hmed)
 
 
 <!-- ### 🎨 Contribution Snake -->
