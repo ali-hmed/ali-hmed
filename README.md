@@ -80,6 +80,7 @@ I’m a front-end developer specializing in React and modern JavaScript. I focus
   </a>
 </p>
 
+---
 
 [![committers.top badge](https://user-badge.committers.top/somalia/ali-hmed.svg)](https://user-badge.committers.top/somalia/ali-hmed)
 
