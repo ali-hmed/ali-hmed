@@ -28,19 +28,23 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 
 
 <!-- Trophies service is currently unavailable. Using a profile summary card instead. -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-hmed&theme=radical" alt="GitHub Stats" />
-</p>
+</p> -->
 
 ### 📈 GitHub Analytics
 
-<p align="center">
+<p align="right">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-hmed&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-hmed&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-hmed&theme=radical" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-month?username=ali-hmed&theme=radical" alt="Commits Per Month" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-month?username=ali-hmed&theme=radical" alt="Commits Per Month" /> -->
 </p>
 
 ---
@@ -49,18 +53,18 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,graphql,docker,git,github,vscode,vercel" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,graphql,docker,git,github,vscode,vercel" />
   </a>
 </p>
 
 ---
 
 ### 🤝 Connect with Me
-
+<!-- 
 <p align="left">
   <a href="https://wa.me/614968658" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" alt="WhatsApp" />
-  </a>
+  </a> -->
   <a href="https://x.com/ali_ahmedy7" target="_blank">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" />
   </a>
@@ -74,7 +78,14 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 
 ---
 
-[![committers.top badge](https://user-badge.committers.top/somalia/ali-hmed.svg)](https://user-badge.committers.top/somalia/ali-hmed)
+<p align="left">
+  <a href="https://committers.top/somalia">
+    <img src="https://img.shields.io/badge/Somalia-Rank%20%2330-blue?logo=github&style=flat-square" alt="Somalia Rank" />
+  </a>
+  <a href="https://committers.top/somalia#ali-hmed">
+    <img src="https://user-badge.committers.top/somalia/ali-hmed.svg" alt="committers.top badge" />
+  </a>
+</p>
 
 ### 🎨 Contribution Snake 
 <p align="center">
