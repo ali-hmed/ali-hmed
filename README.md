@@ -36,7 +36,6 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-hmed&theme=radical" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-month?username=ali-hmed&theme=radical" alt="Commits Per Month" />
 </p>
 
 ---
@@ -70,19 +69,16 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 
 ---
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://committers.top/somalia">
     <img src="https://img.shields.io/badge/Somalia-Rank%20%2330-blue?logo=github&style=flat-square" alt="Somalia Rank" />
   </a>
   <a href="https://committers.top/somalia#ali-hmed">
     <img src="https://user-badge.committers.top/somalia/ali-hmed.svg" alt="committers.top badge" />
   </a>
-</p>
+</p> -->
 
-### 🎨 Contribution Snake 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ali-hmed/ali-hmed/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+[![committers.top badge](https://user-badge.committers.top/somalia/ali-hmed.svg)](https://user-badge.committers.top/somalia/ali-hmed)
 
 ---
 
