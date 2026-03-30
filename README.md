@@ -40,6 +40,7 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-hmed&theme=radical" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-month?username=ali-hmed&theme=radical" alt="Commits Per Month" />
 </p>
 
 ---
