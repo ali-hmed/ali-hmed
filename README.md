@@ -27,18 +27,15 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 - ⚡ **Optimization**: Performance tuning & writing maintainable, clean code practices
 
 
-### 🏆 GitHub Trophies
+<!-- Trophies service is currently unavailable. Using a profile summary card instead. -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ali-hmed&theme=dracula&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-hmed&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-hmed&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
