@@ -30,15 +30,15 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ali-hmed&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ali-hmed&theme=dracula&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </p>
 
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
