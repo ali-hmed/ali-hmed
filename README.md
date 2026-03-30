@@ -27,24 +27,16 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 - ⚡ **Optimization**: Performance tuning & writing maintainable, clean code practices
 
 
-<!-- Trophies service is currently unavailable. Using a profile summary card instead. -->
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-hmed&theme=radical" alt="GitHub Stats" />
-</p> -->
-
 ### 📈 GitHub Analytics
 
-<p align="right">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-hmed&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-hmed&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-hmed&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-hmed&theme=radical" alt="GitHub Profile Details" />
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-month?username=ali-hmed&theme=radical" alt="Commits Per Month" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-month?username=ali-hmed&theme=radical" alt="Commits Per Month" />
 </p>
 
 ---
