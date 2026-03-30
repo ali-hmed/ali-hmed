@@ -1,63 +1,57 @@
 # Hi there, I'm Ali Ahmed 👋
-<!-- 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Frontend%20Developer&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
-</p> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Architect;React+%26+Next.js+Expert;Crafting+Scalable+Systems;" alt="Typing SVG" />
+</p>
 
  <p align="center">
-   <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="850" height="50" alt="Anime Coding Animation" />
+   <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="800" height="40" alt="Anime Coding Animation" />
 </p> 
 
+### 💫 About Me
 
-<!-- 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Specialist;Creative+Coder;Programmer;" alt="Typing SVG" />
-</p>
---- -->
+I’m a **Full-Stack Developer** with a current focus on **Backend Development**, while maintaining deep expertise in **React** and **Next.js**. I'm passionate about architecting scalable systems, designing clean APIs, and crafting fluid, responsive user interfaces.
 
-### 💫 About Me 
-<!-- <p align="left"><img src="https://flagcdn.com/w160/so.png" width="25" alt="Somalia Flag" /></p> -->
+Lately, I’ve been diving deep into backend architecture, mastering **MongoDB** & **Firebase**, and leveraging **GraphQL** to build performant, type-safe APIs.
 
-I’m a front-end developer specializing in React and modern JavaScript. I focus on building functional, responsive, and maintainable web interfaces. I have experience working on real client projects and enjoy improving performance, writing clean code, and learning new web technologies.
+---
 
-- 💻 Front-end development with **React & Nextjs**
-- ⚛️ Component-based UI implementation
-- 📱 Responsive websites & web apps
-- 🚀 Experience working on real client projects
+### 💻 Skills & Expertise
+
+- ⚛️ **Front-End Development**: Building high-performance apps with **React & Next.js**
+- 🧩 **UI/UX Implementation**: Component-driven architecture & pixel-perfect responsive design
+- 🗄️ **Backend Engineering**: Robust API design & scalable server-side systems
+- 🍃 **Database Management**: Working with **MongoDB** (NoSQL) & document storage
+- 🔥 **Firebase Specialist**: Real-time databases, authentication, and cloud functions
+- 🔗 **GraphQL Explorer**: Building flexible and efficient data-fetching layers
+- 🚀 **Industry Experience**: Proven track record delivering real-world client projects
+- ⚡ **Optimization**: Performance tuning & writing maintainable, clean code practices
 
 
-<!-- 
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ali-hmed&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
-</p> -->
-
-<!-- --- -->
-<!-- 
-### 🎬 Aesthetic Anime
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp6Z3N0N256d3J6Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/8pzzC73HBeKmQ/giphy.gif" width="800" height="250" alt="Anime Aesthetic Animation" />
 </p>
---- -->
 
-<!-- ### 📈 GitHub Analytics -->
-<!-- <p align="center">
+### 📈 GitHub Analytics
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-hmed&theme=radical" alt="GitHub Profile Details" />
-</p> -->
+</p>
 
+---
 
 ### 🚀 Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,graphql,docker,git,github,vscode,vercel" />
   </a>
 </p>
 
@@ -84,17 +78,13 @@ I’m a front-end developer specializing in React and modern JavaScript. I focus
 
 [![committers.top badge](https://user-badge.committers.top/somalia/ali-hmed.svg)](https://user-badge.committers.top/somalia/ali-hmed)
 
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
-</p>  
-
-<!-- ### 🎨 Contribution Snake 
-  <p align="center">
+### 🎨 Contribution Snake 
+<p align="center">
   <img src="https://raw.githubusercontent.com/ali-hmed/ali-hmed/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<p align="center">
+---
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
-</p>  
+</p>
