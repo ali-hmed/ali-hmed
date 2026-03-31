@@ -22,7 +22,7 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 - 🗄️ **Backend Engineering**: Robust API design & scalable server-side systems
 - 🍃 **Database Management**: Working with **MongoDB** (NoSQL) & document storage
 - 🔥 **Firebase Specialist**: Real-time databases, authentication, and cloud functions
-- 🔗 **GraphQL Explorer**: Building flexible and efficient data-fetching layers
+<!-- - 🔗 **GraphQL Explorer**: Building flexible and efficient data-fetching layers -->
 - 🚀 **Industry Experience**: Proven track record delivering real-world client projects
 - ⚡ **Optimization**: Performance tuning & writing maintainable, clean code practices
 
