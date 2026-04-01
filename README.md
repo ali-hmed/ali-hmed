@@ -1,7 +1,4 @@
 # Hi there, I'm Ali Ahmed 👋  
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Architect;React+%26+Next.js+Expert;Crafting+Scalable+Systems;" alt="Typing SVG" />
@@ -81,5 +78,10 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
   </a>
 </p> -->
 
-[![committers.top badge](https://user-badge.committers.top/somalia/ali-hmed.svg)](https://user-badge.committers.top/somalia/ali-hmed)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
+</p>
+<!-- 
+[![committers.top badge](https://user-badge.committers.top/somalia/ali-hmed.svg)](https://user-badge.committers.top/somalia/ali-hmed) -->
 
