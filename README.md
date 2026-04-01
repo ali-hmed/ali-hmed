@@ -38,7 +38,7 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 
 ---
 
-### 🤝 Connect with Me
+<!-- ### 🤝 Connect with Me -->
 
 <!-- <p align="left">
   <a href="https://x.com/ali_ahmedy7" target="_blank">
