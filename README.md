@@ -26,6 +26,17 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 - ⚡ **Optimization**: Performance tuning & writing maintainable, clean code practices
 <!-- - 🔗 **GraphQL Explorer**: Building flexible and efficient data-fetching layers -->
 
+
+### 🚀 Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,graphql,docker,git,github,vscode,vercel" />
+  </a>
+</p>
+
+---
+
 ### 📈 GitHub Analytics
 
 <p align="center">
@@ -39,20 +50,11 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 
 ---
 
-### 🚀 Tech Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,graphql,docker,git,github,vscode,vercel" />
-  </a>
-</p>
-
----
 
 ### 🤝 Connect with Me
-<!-- 
+
 <p align="left">
-  <a href="https://wa.me/614968658" target="_blank">
+  <!-- <a href="https://wa.me/614968658" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" alt="WhatsApp" />
   </a> -->
   <a href="https://x.com/ali_ahmedy7" target="_blank">
