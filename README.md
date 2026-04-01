@@ -40,7 +40,7 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 
 ### 🤝 Connect with Me
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://x.com/ali_ahmedy7" target="_blank">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" />
   </a>
@@ -50,7 +50,7 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
   <a href="https://www.linkedin.com/in/ali-ahmed-92a4ba393/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" />
   </a>
-</p>
+</p> -->
 
 
 
