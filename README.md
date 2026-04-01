@@ -1,4 +1,8 @@
-# Hi there, I'm Ali Ahmed 👋
+# Hi there, I'm Ali Ahmed 👋  
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Architect;React+%26+Next.js+Expert;Crafting+Scalable+Systems;" alt="Typing SVG" />
 </p>
@@ -37,26 +41,9 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-hmed&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-hmed&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-hmed&theme=radical" alt="GitHub Profile Details" />
-</p>
-
----
-
-
 ### 🤝 Connect with Me
 
 <p align="left">
-  <!-- <a href="https://wa.me/614968658" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" alt="WhatsApp" />
-  </a> -->
   <a href="https://x.com/ali_ahmedy7" target="_blank">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" />
   </a>
@@ -68,7 +55,22 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
   </a>
 </p>
 
----
+
+
+<!-- 
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-hmed&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-hmed&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-hmed&theme=radical" alt="GitHub Profile Details" />
+</p>
+
+--- -->
+
 
 <!-- <p align="left">
   <a href="https://committers.top/somalia">
@@ -81,8 +83,3 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 
 [![committers.top badge](https://user-badge.committers.top/somalia/ali-hmed.svg)](https://user-badge.committers.top/somalia/ali-hmed)
 
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
-</p>
