@@ -78,6 +78,9 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
   </a>
 </p> 
 
+[![committers.top badge](https://user-badge.committers.top/somalia/ali-hmed.svg)](https://user-badge.committers.top/somalia/ali-hmed)
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
