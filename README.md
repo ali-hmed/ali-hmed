@@ -69,17 +69,6 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 --- -->
 
 
- <p align="left">
-  <a href="https://committers.top/somalia">
-    <img src="https://img.shields.io/badge/Somalia-Rank%20%2330-blue?logo=github&style=flat-square" alt="Somalia Rank" />
-  </a>
-  <a href="https://committers.top/somalia#ali-hmed">
-    <img src="https://user-badge.committers.top/somalia/ali-hmed.svg" alt="committers.top badge" />
-  </a>
-</p> 
-
-[![committers.top badge](https://user-badge.committers.top/somalia/ali-hmed.svg)](https://user-badge.committers.top/somalia/ali-hmed)
-
 
 
 <p align="center">
