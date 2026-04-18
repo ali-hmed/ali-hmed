@@ -1,79 +1,72 @@
-# Hi there, I'm Ali Ahmed 👋  
+# <p align="center">⛩️ Welcome to my Digital Dojo! ⛩️</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Architect;React+%26+Next.js+Expert;Crafting+Scalable+Systems;" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ali%20Ahmed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Shinobi%20%7C%20Backend%20Architect&descAlignY=51&descSize=20" alt="Header" />
 </p>
 
- <p align="center">
-   <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="800" height="150" alt="Anime Coding Animation" />
-</p> 
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4Znd3bmV4Znd3bmV4Znd3bmV4Znd3bmV4Znd3bmV4Znd3JmVwaT12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="100%" height="200" alt="Anime Coding" style="border-radius: 15px;" />
+</p>
 
-### 💫 About Me
+### 💫 **Main Quest**
+I'm a **Full-Stack Shinobi** wandering the vast lands of the Web. My primary mission is architecting robust **Backend Systems** while maintaining the elegance of **React** and **Next.js** in my Front-end Ninjutsu. ⚔️
 
-I’m a **Full-Stack Developer** with a current focus on **Backend Development**, while maintaining deep expertise in **React** and **Next.js**. I'm passionate about architecting scalable systems, designing clean APIs, and crafting fluid, responsive user interfaces.
-
-Lately, I’ve been diving deep into backend architecture, mastering **MongoDB** & **Firebase**, and leveraging **GraphQL** to build performant, type-safe APIs.
+- 🔭 **Current Training**: Perfecting high-level Backend architectures and Distributed Systems.
+- ⚡ **Ultimate Skill**: Crafting pixel-perfect, lightning-fast user interfaces.
+- 🏯 **Motto**: *"In the world of code, those who break the rules are scum, but those who write unmaintainable code are worse than scum."*
 
 ---
-<!-- 
-### 💻 Skills & Expertise
 
-- ⚛️ **Front-End Development**: Building high-performance apps with **React & Next.js**
-- 🧩 **UI/UX Implementation**: Component-driven architecture & pixel-perfect responsive design
-- 🗄️ **Backend Engineering**: Robust API design & scalable server-side systems
-- 🍃 **Database Management**: Working with **MongoDB** (NoSQL) & document storage
-- 🔥 **Firebase Specialist**: Real-time databases, authentication, and cloud functions
-- 🚀 **Industry Experience**: Proven track record delivering real-world client projects
-- ⚡ **Optimization**: Performance tuning & writing maintainable, clean code practices
-- 🔗 **GraphQL Explorer**: Building flexible and efficient data-fetching layers -->
+### 📜 **Forbidden Techniques (Tech Stack)**
 
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,graphql,docker,git,github,vscode,vercel&theme=dark" />
+  </p>
+</div>
 
-### 🚀 Tech Stack
+<details>
+<summary><b>✨ View Detailed Stats</b></summary>
+
+- ⚛️ **Front-End Ninjutsu**: React, Next.js, Redux, Framer Motion
+- 🗄️ **Back-End Genjutsu**: Node.js, Express, GraphQL, REST APIs
+- 🍃 **Sage Mode (Data)**: MongoDB, Firebase, PostgreSQL
+- 🚀 **Summoning Arts**: Docker, AWS, CI/CD, Git
+</details>
+
+---
+
+### 📊 **Power Level & Analytics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hmed&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+---
+
+### 🤝 **Secret Message Scroll**
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,graphql,docker,git,github,vscode,vercel" />
+  <a href="mailto:aliahmedxdev9@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/ali-ahmed-92a4ba393/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-<!-- ### 🤝 Connect with Me -->
-
-<!-- <p align="left">
-  <a href="https://x.com/ali_ahmedy7" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" />
-  </a>
-  <a href="mailto:aliahmedxdev9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/ali-ahmed-92a4ba393/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" />
-  </a>
-</p> -->
-
-
-
-<!-- 
-### 📈 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-hmed&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-hmed&theme=radical" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=ff69b4&style=flat-square&label=VISITORS+COUNT" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-hmed&theme=radical" alt="GitHub Profile Details" />
+  <i>"Success is not final, failure is not fatal: it is the courage to continue that counts." — Naruto Uzumaki (probably)</i><br>
+  <b>お疲れ様でした! (Otsukaresama deshita!)</b>
 </p>
-
---- -->
-
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ali-hmed&color=blueviolet&style=flat-square" alt="Views" />
-</p>
-
-[![committers.top badge](https://user-badge.committers.top/somalia/ali-hmed.svg)](https://user-badge.committers.top/somalia/ali-hmed) 
-
