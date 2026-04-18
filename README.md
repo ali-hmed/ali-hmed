@@ -5,7 +5,7 @@
 </p>
 
  <p align="center">
-   <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="800" height="70" alt="Anime Coding Animation" />
+   <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="800" height="500" alt="Anime Coding Animation" />
 </p> 
 
 ### 💫 About Me
