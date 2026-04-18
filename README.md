@@ -5,7 +5,7 @@
 </p>
 
  <p align="center">
-   <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="800" height="40" alt="Anime Coding Animation" />
+   <img src="https://i.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="800" height="70" alt="Anime Coding Animation" />
 </p> 
 
 ### 💫 About Me
@@ -15,7 +15,7 @@ I’m a **Full-Stack Developer** with a current focus on **Backend Development**
 Lately, I’ve been diving deep into backend architecture, mastering **MongoDB** & **Firebase**, and leveraging **GraphQL** to build performant, type-safe APIs.
 
 ---
-
+<!-- 
 ### 💻 Skills & Expertise
 
 - ⚛️ **Front-End Development**: Building high-performance apps with **React & Next.js**
@@ -25,7 +25,7 @@ Lately, I’ve been diving deep into backend architecture, mastering **MongoDB**
 - 🔥 **Firebase Specialist**: Real-time databases, authentication, and cloud functions
 - 🚀 **Industry Experience**: Proven track record delivering real-world client projects
 - ⚡ **Optimization**: Performance tuning & writing maintainable, clean code practices
-<!-- - 🔗 **GraphQL Explorer**: Building flexible and efficient data-fetching layers -->
+- 🔗 **GraphQL Explorer**: Building flexible and efficient data-fetching layers -->
 
 
 ### 🚀 Tech Stack
