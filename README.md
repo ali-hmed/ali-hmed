@@ -12,7 +12,7 @@ I am a passionate **Full-Stack Developer** specializing in building scalable bac
 
 - 🔭 **Focusing on**: Backend optimization and Distributed Systems.
 - ⚡ **Fun Fact**: I love crafting pixel-perfect UIs with clean, maintainable code.
-- 💬 **Ask me about**: JavaScript, TypeScript, and Scalability.
+- 💬 **Ask me about**: Anime, APIs, and Distributed Systems.
 
 ---
 
