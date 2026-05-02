@@ -25,7 +25,6 @@ I am a passionate **Full-Stack Developer** specializing in building scalable bac
 </p>
 
 ---
-
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -38,7 +37,6 @@ I am a passionate **Full-Stack Developer** specializing in building scalable bac
 </p>
 
 ---
-
 ### 📫 Let's Connect
 
 <p align="center">
