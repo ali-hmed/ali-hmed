@@ -14,10 +14,6 @@ I am a passionate **Full-Stack Developer** specializing in building scalable bac
 - ⚡ **Fun Fact**: I love crafting pixel-perfect UIs with clean, maintainable code.
 - 💬 **Ask me about**: Anime, APIs, and Distributed Systems.
 
----
-
-### 🛠️ My Toolbox
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,graphql,docker,git,github,vscode,vercel&theme=dark" />
