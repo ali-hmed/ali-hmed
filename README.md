@@ -25,18 +25,7 @@ I am a passionate **Full-Stack Developer** specializing in building scalable bac
 </p>
 
 ---
-### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=omni&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=omni&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hmed&theme=omni&hide_border=true" alt="Streak" />
-</p>
-
----
 ### 📫 Let's Connect
 
 <p align="center">
