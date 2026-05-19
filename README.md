@@ -34,4 +34,3 @@ I love crafting pixel-perfect UIs with clean, maintainable code and optimizing b
 [![Twitter](https://img.shields.io/badge/Twitter-ali__ahmedy7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ali_ahmedy7)
 ---
 
-"Build fast. Ship clean. Never stop learning."
