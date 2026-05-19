@@ -31,6 +31,5 @@ I love crafting pixel-perfect UIs with clean, maintainable code and optimizing b
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmed-92a4ba393/)
 [![GitHub](https://img.shields.io/badge/GitHub-ali--hmed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali-hmed)
 [![Email](https://img.shields.io/badge/Email-aliahmedxdev9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliahmedxdev9@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-ali__ahmedy7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ali_ahmedy7)
 ---
 
