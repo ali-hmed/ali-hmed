@@ -1,6 +1,6 @@
 # Ali Ahmed
 
-Full-Stack Developer | Backend Architect
+Full-Stack Developer 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ali-hmed&style=flat&color=36BCF7)
 
