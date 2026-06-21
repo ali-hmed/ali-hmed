@@ -31,7 +31,7 @@ Outside of coding, I’m always into tech discussions, UI inspiration, and anime
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmed-92a4ba393/)
-[![GitHub](https://img.shields.io/badge/GitHub-ali--hmed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali-hmed)
+[![X](https://img.shields.io/badge/X-ali__ahmedy7-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ali_ahmedy7)
 [![Email](https://img.shields.io/badge/Email-aliahmedxdev9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliahmedxdev9@gmail.com)
 ---
 
