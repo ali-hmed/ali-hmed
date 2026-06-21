@@ -2,7 +2,7 @@
 
 Full-Stack Developer | Backend Architect
 
-![Profile Views](https://komarev.com/ghpvc/?username=ali-hmed&style=flat&color=36BCF7)
+![Profile Views](https://komarev.com/ghpvc/?username=ali-hmed&style=flat&color=36BCF7) [![committers.top badge](https://user-badge.committers.top/somalia_private/ali-hmed.svg)](https://user-badge.committers.top/somalia_private/ali-hmed)
 
 ## About Me
 I’m a Full-Stack Developer passionate about building modern, scalable, and high-performance web applications with clean UI and smooth user experiences. I mainly work with Next.js, Node.js, React, and modern backend technologies to create fast and reliable systems from frontend to backend.
