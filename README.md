@@ -1,6 +1,6 @@
 # Ali Ahmed
 
-Full-Stack Developer | Backend Architect
+Full-Stack Developer |
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ali-hmed&style=flat&color=36BCF7) [![committers.top badge](https://user-badge.committers.top/somalia_private/ali-hmed.svg)](https://user-badge.committers.top/somalia_private/ali-hmed)
 
