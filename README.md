@@ -9,7 +9,7 @@ I’m a Full-Stack Developer focused on building modern, scalable, and high-perf
 
 I enjoy designing sleek, responsive interfaces, writing clean and maintainable code, and continuously exploring new technologies, design trends, and improved development workflows.
 
-Outside of development, I stay engaged in tech discussions, UI inspiration, and anime recommendations.
+Outside of development, I stay engaged in tech discussions, UI inspiration, and anime recommendations....
 
 ## Tech Stack
 ![TypeScript](https://skillicons.dev/icons?i=ts)
