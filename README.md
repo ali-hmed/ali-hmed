@@ -50,44 +50,12 @@ Outside of dev, I stay engaged in tech discussions, UI inspiration, and **anime 
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
-<!-- ![GraphQL](https://skillicons.dev/icons?i=graphql) -->
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ali-hmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff&border_radius=12" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ffffff&border_radius=12" height="165" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ali-hmed&theme=tokyonight-duo&hide_border=true&border_radius=12&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ali-hmed/ali-hmed/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ali-hmed/ali-hmed/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ali-hmed/ali-hmed/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
