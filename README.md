@@ -51,15 +51,11 @@ Outside of dev, I stay engaged in tech discussions, UI inspiration, and **anime 
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
-![GraphQL](https://skillicons.dev/icons?i=graphql)
+<!-- ![GraphQL](https://skillicons.dev/icons?i=graphql) -->
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Vercel](https://skillicons.dev/icons?i=vercel)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
@@ -96,16 +92,14 @@ Outside of dev, I stay engaged in tech discussions, UI inspiration, and **anime 
 
 ---
 
-## 🎌 Identity Tags
+## ✨ Identity Tags
 
 <div align="center">
 
 ![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-58A6FF?style=for-the-badge&logoColor=white)
 ![React Native Learner](https://img.shields.io/badge/React_Native-Explorer-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Anime Otaku](https://img.shields.io/badge/Anime-Otaku-FF6B9D?style=for-the-badge&logoColor=white)
 ![Gamer](https://img.shields.io/badge/Gamer-Level_99-6A0DAD?style=for-the-badge&logo=playstation&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-Contributor-2EA44F?style=for-the-badge&logo=github&logoColor=white)
-![Somalia](https://img.shields.io/badge/🇸🇴-Somalia-4EAA25?style=for-the-badge&logoColor=white)
+
 
 </div>
 
