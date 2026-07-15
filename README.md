@@ -57,18 +57,6 @@ Outside of dev, I stay engaged in tech discussions, UI inspiration, and **anime 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
----
-
-## ✨ Identity Tags
-
-<div align="center">
-
-![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-58A6FF?style=for-the-badge&logoColor=white)
-![React Native Learner](https://img.shields.io/badge/React_Native-Explorer-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Gamer](https://img.shields.io/badge/Gamer-Level_99-6A0DAD?style=for-the-badge&logo=playstation&logoColor=white)
-
-
-</div>
 
 ---
 
