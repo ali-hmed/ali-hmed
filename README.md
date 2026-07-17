@@ -10,7 +10,7 @@
 </div>
 
 ---
-
+[![RankSomali rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Franksomali-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fali-hmed&style=flat-square)](https://ranksomali.dev/#ali-hmed)
 ## 👾 About Me
 
 ```typescript
