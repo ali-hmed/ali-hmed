@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ali%20Ahmed&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=60&descSize=18" />
 
-<div align="center">7
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+Native+%26+Expo+Explorer+%F0%9F%93%B1;Next.js+%7C+Node.js+%7C+TypeScript+%E2%9A%A1;Building+the+future%2C+one+commit+at+a+time+%F0%9F%94%A5)](https://git.io/typing-svg)
 
