@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ali%20Ahmed&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=60&descSize=18" />   888
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ali%20Ahmed&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=60&descSize=18" />   
 
 <div align="center">
 
